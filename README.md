@@ -2,7 +2,10 @@
 
 ### Hi there 👋, I'm Enes
 #### Software Engineer and Game Enthusiast 
- I'm a computer engineering student whose passionate about developing software, I devote much of my free time to developing software and exploring software technologies. I am currently working on back end development & DevOps and because I'm a huge game enthusiast I am also working on game development & graphics development as a hobby. I’m a free software enthusiast (as per Free Software Foundation definition of “free”). 
+ 
+ I'm a computer engineering student whose passionate about developing software, I devote much of my free time to developing software and exploring software technologies.
+I love programming with low level programming languages. This gives a nice understanding of how the computer actually executes the code. I develop many things that can be programmable with low level programming languages especially embedded systems but not limited to. Other than low level programming I also develop backend web applications.
+I’m a free software enthusiast (as per Free Software Foundation definition of “free”). 
 
 
 - 🔭 I’m currently working on my website: enesemredemir.github.io 
