@@ -8,5 +8,5 @@ I love programming with low level programming languages. This gives a nice under
 I’m a free software enthusiast (as per Free Software Foundation definition of “free”). 
 
 
-- 🔭 I’m currently working on my website: enesemredemir.github.io 
+- 🔭 I’m currently working on embedded systems.
 - ⚡ Fun fact: Banging your head against a wall for one hour burns 150 calories. 
