@@ -3,7 +3,7 @@
 ### Hi there 👋, I'm Enes
 #### Software Engineer and Game Enthusiast 
  
-I'm a computer engineering student whose passionate about developing software, I devote much of my free time to developing software and exploring software technologies. I am currently studying backend web development. I enjoy programming with low level programming languages such as C/C++ and assembly. So as a hobby, I develop low level applications including embedded systems and games but not limited to. I’m a free software enthusiast (as per Free Software Foundation definition of “free”). 
+I'm a computer engineering student whose passionate about developing software, I devote much of my free time to developing software and exploring software technologies. I am currently studying full stack web development. I enjoy programming with low level programming languages such as C/C++ and assembly. So as a hobby, I develop low level applications including embedded systems and games but not limited to. I’m a free software enthusiast (as per Free Software Foundation definition of “free”). 
 
 
 - 🔭 I’m currently working on [Roar](https://github.com/EnesEmreDemir/roar).
