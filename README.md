@@ -7,8 +7,6 @@ I'm a computer engineering student whose passionate about developing software, I
 
 I am currently working on backend development. 
 
-I am a big fanatic of C programming language and assembly therefore most of my projects is written with C. (Unless it is web project)
-
 Video games always been my passion and therefore I develop games and plugins/mods for games. 
 
 I’m a free software enthusiast (as per Free Software Foundation definition of “free”). 
