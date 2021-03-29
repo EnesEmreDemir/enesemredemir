@@ -13,3 +13,5 @@ I’m a free software enthusiast (as per Free Software Foundation definition of 
  
 - 🔭 I’m currently working on [Roar](https://github.com/EnesEmreDemir/roar).
 - ⚡ Fun fact: Banging your head against a wall for one hour burns 150 calories. 
+
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/EnesEmreDemir/my-stack)
